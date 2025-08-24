@@ -28,6 +28,19 @@
       "dependencies": {},
       "hash": "65e5b0fc96ec2742c055191ae09d068428608b44"
     },
+    "com.heathen.steamworks": {
+      "version": "file:com.heathen.steamworks",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.rlabrecque.steamworks.net": {
+      "version": "https://github.com/rlabrecque/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net#2025.161.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "eb0f4beeb7af1188b475602269b253dd2ec4aaed"
+    },
     "com.unity.addressables": {
       "version": "2.6.0",
       "depth": 0,
