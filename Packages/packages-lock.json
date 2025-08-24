@@ -133,7 +133,7 @@
     },
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.5",
-      "depth": 3,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -261,6 +261,16 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "dev.purrnet.purrnet": {
+      "version": "https://github.com/PurrNet/PurrNet.git?path=/Assets/PurrNet#release",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.mono-cecil": "1.11.4",
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "hash": "2c035ec39c0bd912af2a2ada5c5963defde6dcec"
     },
     "jillejr.newtonsoft.json-for-unity.converters": {
       "version": "1.6.3",
